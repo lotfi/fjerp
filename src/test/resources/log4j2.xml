@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration status="info">
+    <Properties>
+        <Property name="layout">%d [%t] %-5level %logger{36} - %m%n</Property>
+    </Properties>
+  
+    <Appenders>
+  
+        <Console name="console">
+            <PatternLayout pattern="${layout}" />
+        </Console>     
+        
+        <File name="fichier" fileName="fjerp.log" append="true">
+            <PatternLayout pattern="${layout}"/>
+        </File>        
+
+    </Appenders>
+    
+    <Loggers>
+
+        <Logger name="org.forma" level="debug" additivity="true" >
+            <AppenderRef ref="fichier" />
+            
+            <AppenderRef ref="console" />
+        </Logger>
+
+        <Logger name="org.hibernate" level="debug" additivity="true" >
+            <AppenderRef ref="fichier" />
+            
+            <AppenderRef ref="console" />
+        </Logger>
+
+        <Logger name="org.apache.catalina" level="debug" additivity="true" >
+            <AppenderRef ref="fichier" />
+            
+            <AppenderRef ref="console" />
+        </Logger>
+
+    
+        <Root level="debug">
+            <AppenderRef ref="console" />
+            
+            <AppenderRef ref="fichier" />
+        </Root>    
+
+    </Loggers>
+</Configuration>
