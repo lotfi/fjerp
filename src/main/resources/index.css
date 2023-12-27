@@ -1,0 +1,6905 @@
+﻿
+
+
+#entete
+{
+	position: absolute;
+	top:    100px;
+	left:   300px;
+	height: 100px;
+	width:  1000px;
+}
+
+#contenu
+{
+	position: relative;
+	top:    300px;
+	left:   300px;
+	height: 500px;
+	width:  1000px;	
+}
+
+.titre1
+{
+  font-size: 11px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  background-color: rgb(3, 195, 244);
+  color: white;
+}
+
+.titre2
+{
+  font-size: 11px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  background-color: rgb(0, 148, 178);
+  color: white;
+}
+
+.titre3
+{
+  font-size: 10px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  background-color: rgb(203, 238, 244);
+  color: white;
+}
+
+.titre4
+{
+  font-size: 10px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  background-color: rgb(90, 192, 199);
+  color: white;
+}
+
+.titre5
+{
+  font-size: 10px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  background-color: rgb(20, 109, 161);
+  color: white;
+}
+
+.titre6
+{
+  font-size: 10px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  background-color: rgb(83, 104, 116);
+  color: white;
+}
+
+
+.titre7
+{
+  font-size: 10px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  background-color: rgb(219, 229, 234);
+  color: white;
+}
+
+
+.titre8
+{
+  font-size: 10px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  background-color: rgb(0, 95, 130);
+  color: white;
+}
+
+
+.titre9
+{
+  font-size: 10px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  background-color: rgb(111, 152, 172);
+  color: white;
+}
+
+
+.titre10
+{
+  font-size: 10px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  background-color: rgb(229,47,71);
+  color: white;
+}
+
+.titre11
+{
+  font-size: 10px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  background-color: rgb(0, 176, 166);
+  color: white;
+}
+
+.titre12
+{
+  font-size: 10px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  background-color: rgb(0, 201, 255);
+  color: white;
+}
+
+
+.titre13
+{
+  font-size: 10px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  background-color: rgb(233, 62, 0);
+  color: white;
+}
+
+
+.titre14
+{
+  font-size: 10px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  background-color: rgb(1, 150, 182);
+  color: white;
+}
+
+
+.titre15
+{
+  font-size: 10px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  background-color: rgb(125, 184, 197);
+  color: white;
+}
+
+.titre16
+{
+  font-size: 10px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  background-color: rgb(206, 125, 181);
+  color: white;
+}
+
+
+.titre17
+{
+  font-size: 10px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  background-color: rgb(168, 29, 122);
+  color: white;
+}
+
+
+.titre18
+{
+  font-size: 10px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  background-color: rgb(250, 184, 136);
+  color: white;
+}
+
+.titre19
+{
+  font-size: 10px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  background-color: rgb(235, 125, 143);
+  color: white;
+}
+
+.titre20
+{
+  font-size: 10px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  background-color: rgb(0, 202, 0);
+  color: white;
+}
+
+.titre21
+{
+  font-size: 10px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  background-color: ;
+  color: white;
+}
+
+
+.texte
+{
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+
+// plan qualit�
+.charte1
+{
+     background-color: rgb(3, 195, 244);
+}
+
+.contenu2
+{
+     background-color: rgb(0, 148, 178);
+     height:   50px;
+     width:    250px;
+}
+
+.menu1
+{
+  background-color: rgb(232, 239, 231); 
+  font-size: 11px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 15px 15px 15px 15px;
+}
+
+.menu2
+{
+  background-color: rgb(104, 118, 126); 
+   font-size: 11px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 15px 15px 15px 15px;
+}
+
+
+
+.donnee1
+{
+  background-color: rgb(176, 226, 235); 
+  font-size: 11px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 15px 15px 15px 15px;
+}
+
+.donnee2
+{
+  background-color: rgb(247, 253, 237 ); 
+  font-size: 11px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 15px 15px 15px 15px;
+}
+
+.donnee3
+{
+  background-color: rgb(111, 152, 172); 
+  font-size: 11px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 15px 15px 15px 15px;
+}
+
+.console1
+{
+  background-color: rgb(0, 95, 130); 
+  font-size: 11px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 15px 15px 15px 15px;
+}
+
+
+.console2
+{
+  background-color: rgb(176, 220, 224); 
+  font-size: 11px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 15px 15px 15px 15px;
+}
+
+
+.presente1
+{
+  background-color: rgb(3, 195, 244); 
+  font-size: 11px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 15px 15px 15px 15px;
+}
+	
+
+.presente2
+{
+  background-color: rgb(0, 148, 178); 
+  font-size: 11px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 15px 15px 15px 15px;
+}
+
+.presente3
+{
+  background-color: rgb(203, 238, 244); 
+  font-size: 11px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 15px 15px 15px 15px;
+}
+
+		
+.divers1
+{
+  background-color: rgb(62, 97, 116); 
+  color: rgb(, , ); 
+  font-size: 11px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 15px 15px 15px 15px;
+}
+
+.divers2
+{
+  background-color: rgb(112, 166, 181); 
+  font-size: 11px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 15px 15px 15px 15px;
+}
+
+.divers3
+{
+  background-color: rgb(88, 186, 202); 
+  font-size: 11px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 15px 15px 15px 15px;
+}
+
+
+.choix1
+{
+  background-color: rgb(83, 104, 116); 
+  color: rgb(33, 192, 192); 
+  font-size: 11px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 15px 15px 15px 15px;
+}  
+
+.choix2
+{
+  background-color: rgb(33, 192, 192); 
+  color: rgb(83, 104, 116); 
+  font-size: 11px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 15px 15px 15px 15px;
+}  
+
+.choix3
+{
+  background-color: rgb(32, 77, 96); 
+  color: rgb(0, 171, 188); 
+  font-size: 11px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 15px 15px 15px 15px;
+}  
+
+.choix4
+{
+  background-color: rgb(0, 171, 188); 
+  color: rgb(32, 77, 96); 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+}  
+
+
+.choix5
+{
+  background-color: rgb(3, 195, 244);
+  color: rgb(255, 255, 255); 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+}  
+
+
+.choix6
+{
+  background-color: rgb(19, 71, 93);
+  color: rgb(3, 195, 244); 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+}  
+
+
+.choix7
+{
+  background-color:  rgb(0, 148, 178);
+  color: rgb(203, 238, 244); 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+}  
+
+
+.choix8
+{
+  background-color: rgb(203, 238, 244);
+  color: rgb(0, 148, 178); 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+}  
+
+.choix9
+{
+  background-color: rgb(90, 192, 199);
+  color: ; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+}  
+
+.choix10
+{
+  background-color: rgb(56, 88, 93);
+  color: ; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+}  
+
+.choix11
+{
+  background-color: rgb(241,103,113);
+  color: ; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+}  
+
+
+.choix12
+{
+  background-color:  rgb(229,47,71);
+  color: rgb(178,203,195); 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+}  
+
+.choix13
+{
+  background-color: rgb(178,203,195);
+  color: rgb(229,47,71); 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+}  
+
+
+
+.choix14
+{
+  background-color:  rgb(227, 237, 240);
+  color: rgb(236, 107, 5); 
+  font-size: 11px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+}  
+
+.choix15
+{
+  background-color: rgb(63, 78, 94);
+  color:  rgb(54, 217, 195); 
+  font-size: 11px;
+  font-weight: bold;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+}  
+
+.choix16
+{
+  background-color:  rgb(121, 194, 6);
+  color: rgb(102, 132, 148); 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+}  
+
+.choix17
+{
+  background-color: rgb(102, 132, 148);
+  color: rgb(121, 194, 6); 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+}  
+
+.choix18
+{
+  background-color:  rgb(20, 109, 161);
+  color: rgb(195, 228, 235); 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+}  
+
+.choix19
+{
+  background-color: rgb(195, 228, 235);
+  color: rgb(20, 109, 161); 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+}  
+
+
+.choix20
+{
+  background-color: rgb(83, 104, 116);
+  color: rgb(219, 229, 234); 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 5px 5px 5px 5px;
+}  
+
+.choix21
+{
+  background-color: rgb(219, 229, 234);
+  color: rgb(83, 104, 116); 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 5px 5px 5px 5px;
+}  
+
+.choix22
+{
+  background-color: rgb(232, 239, 231);
+  color: rgb(104, 118, 126); 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 2px 2px 2px 2px;
+}  
+
+.choix23
+{
+  background-color: rgb(104, 118, 126);
+  color: rgb(232, 239, 231); 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 2px 2px 2px 2px;
+}  
+
+.choix24
+{
+  background-color: rgb(70, 70, 70);
+  color: rgb(16, 176, 191); 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}  
+
+.choix25
+{
+  background-color:  rgb(112, 203, 210);
+  color: rgb(70, 70, 70); 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}  
+
+.choix26
+{
+  background-color: rgb(176, 226, 235);
+  color:  rgb(247, 253, 237 ); 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}  
+
+.choix27
+{
+  background-color:  rgb(247, 253, 237 );
+  color: rgb(176, 226, 235); 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}  
+
+.choix28
+{
+  background-color: rgb(0, 95, 130);
+  color:  rgb(247, 253, 237 ); 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}  
+
+.choix29
+{
+  background-color: rgb(176, 220, 224);
+  color:  rgb(0, 95, 130); 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}  
+
+.choix30
+{
+  background-color: rgb(250, 184, 136);
+  color:  rgb(111, 152, 172); 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}  
+
+.choix31
+{
+  background-color: rgb(111, 152, 172);
+  color:  rgb(250, 184, 136); 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}  
+
+
+.choix32
+{
+  background-color: rgb(139, 200, 75);
+  color:  ; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}  
+
+.choix33
+{
+  background-color:  rgb(210, 217, 185);
+  color:  ; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}  
+
+.choix34
+{
+  background-color:  rgb(255, 214, 0);
+  color:  ; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}  
+
+.choix35
+{
+  background-color:  rgb(236, 107, 5);
+  color:  ; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}  
+
+
+.choix36
+{
+  background-color:  rgb(90, 192, 199);
+  color:  ; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}  
+
+.choix37
+{
+  background-color: rgb(236, 5, 136);
+  color:  ; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}  
+
+.choix38
+{
+  background-color: rgb(255, 190, 187);
+  color:  ; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}  
+
+
+.choix39
+{
+  background-color: rgb(134, 202, 183);
+  color:  ; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}  
+
+.choix40
+{
+  background-color: rgb(235, 125, 143);
+  color: rgb(198, 228, 173); 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}  
+
+.choix41
+{
+  background-color: rgb(116, 49, 111);
+  color:  rgb(171, 190, 37); 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix42
+{
+  background-color: rgb(0, 202, 0);
+  color:   rgb(255, 238, 151); 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix43
+{
+  background-color: rgb(62, 97, 116);
+  color:  rgb(67, 206, 196); 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix44
+{
+  background-color: rgb(112, 166, 181);
+  color:  rgb(197, 240, 240); 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix45
+{
+  background-color: rgb(88, 186, 202);
+  color:  ; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+
+/* jetlastic */
+
+.choix46
+{
+  background-color: rgb(87, 103, 129);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix47
+{
+  background-color: rgb(0, 172, 255);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix48
+{
+  background-color: rgb(0, 135, 250);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix49
+{
+  background-color: rgb(0, 137, 226);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix50
+{
+  background-color: rgb(0, 120, 227);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+/* jetblue - norwegian */
+
+.choix51
+{
+  background-color:  rgb(0, 73, 144);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix52
+{
+  background-color: rgb(77, 144, 205) ;
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix53
+{
+  background-color: rgb(71, 198, 243);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix54
+{
+  background-color: rgb(241, 245, 248);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix55
+{
+  background-color: rgb(244, 37, 55) ;
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix56
+{
+  background-color: rgb(246, 32, 55);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix57
+{
+  background-color: rgb(247, 148, 29);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix58
+{
+  background-color: ;
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+/* americanairlines et mercedesamgf1 */
+.choix59
+{
+  background-color: rgb(157, 166, 171);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix60
+{
+  background-color: rgb(0, 131, 203);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix61
+{
+  background-color: rgb(70, 89, 106);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix62
+{
+  background-color: rgb(32, 197, 245);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix63
+{
+  background-color: rgb(0, 131, 203);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix64
+{
+  background-color: rgb(209, 218, 223);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix65
+{
+  background-color: rgb(241, 26, 22);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix66
+{
+  background-color: rgb(0, 176, 166);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+/* nokia */
+
+.choix67
+{
+  background-color: rgb(0, 201, 255);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix68
+{
+  background-color: rgb(250, 210, 101);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix69
+{
+  background-color: rgb(168, 187, 192);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix70
+{
+  background-color: rgb(18, 65, 145);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix71
+{
+  background-color: rgb(104, 113, 122);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix72
+{
+  background-color: rgb(242, 242, 242);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+/* mint */
+
+.choix73
+{
+  background-color: rgb(, , );
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix74
+{
+  background-color: rgb(103, 147, 150);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix75
+{
+  background-color: rgb(122, 239, 68);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix76
+{
+  background-color: rgb(0, 201, 109);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix77
+{
+  background-color: rgb(0, 211, 243);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix78
+{
+  background-color: rgb(253, 138, 16);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+/* atom editor */
+.choix80
+{
+  background-color: rgb(148, 209, 195);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix81
+{
+  background-color: rgb(88, 75, 79);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix82
+{
+  background-color: rgb(227, 75, 48);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix83
+{
+  background-color: rgb(116, 102, 106);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+
+.choix84
+{
+  background-color: rgb(250, 246, 236);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix85
+{
+  background-color: rgb(203, 203, 199);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix86
+{
+  background-color: rgb(164, 134, 114);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix87
+{
+  background-color: rgb(196, 188, 181);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix88
+{
+  background-color: rgb(114, 172, 171);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix89
+{
+  background-color: rgb(150, 217, 200);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+/* pbs et upwork */
+.choix90
+{
+  background-color: rgb(223, 228, 221);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix91
+{
+  background-color: rgb(52, 123, 149);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix92
+{
+  background-color: rgb(12, 41, 62);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix93
+{
+  background-color: rgb(38, 70, 88);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix94
+{
+  background-color: rgb(172, 197, 200);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix95
+{
+  background-color: rgb(176, 229, 79);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix96
+{
+  background-color: rgb(91, 188, 47);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix97
+{
+  background-color: rgb(0, 133, 28);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix98
+{
+  background-color: rgb(, , );
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix99
+{
+  background-color: rgb(, , );
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+/* */
+.choix100
+{
+  background-color: rgb(18, 123, 136);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix101
+{
+  background-color: rgb(186, 201, 180);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix102
+{
+  background-color: rgb(71, 75, 76);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix103
+{
+  background-color: rgb(14, 136, 140);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix104
+{
+  background-color: rgb(247, 248, 248);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix105
+{
+  background-color: rgb(160, 181, 193);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix106
+{
+  background-color: rgb(195, 214, 0);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix107
+{
+  background-color: rgb(2, 130, 169);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix108
+{
+  background-color: rgb(130, 192, 213);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix109
+{
+  background-color: rgb(0, 159, 227);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix110
+{
+  background-color: rgb(58, 166, 203);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix111
+{
+  background-color: rgb(184, 195, 197);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix112
+{
+  background-color: rgb(222, 124, 147);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix113
+{
+  background-color: rgb(232, 163, 181);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix114
+{
+  background-color: rgb(1, 150, 182);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix115
+{
+  background-color: rgb(125, 184, 197);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix116
+{
+  background-color: rgb(206, 125, 181);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix117
+{
+  background-color: rgb(168, 29, 122);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix118
+{
+  background-color: rgb(200, 213, 204);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+/* fokker et takipi */
+.choix120
+{
+  background-color: rgb(0, 145, 201);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix121
+{
+  background-color: rgb(255, 138, 0);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix122
+{
+  background-color: rgb(74, 186, 191);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix123
+{
+  background-color: rgb(47, 47, 47);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix124
+{
+  background-color: rgb(97, 114, 129);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix125
+{
+  background-color: rgb(83, 83, 100);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix126
+{
+  background-color: rgb(223, 244, 249);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix127
+{
+  background-color: rgb(124, 189, 220);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+/* piktochart */
+.choix130
+{
+  background-color: rgb(233, 62, 0);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix131
+{
+  background-color: rgb(242, 238, 227);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix132
+{
+  background-color: rgb(253, 171, 91);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix133
+{
+  background-color: rgb(11, 196, 180);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix134
+{
+  background-color: rgb(72, 84, 86);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix135
+{
+  background-color: rgb(226, 232, 233);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix136
+{
+  background-color: rgb(52, 72, 94);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix137
+{
+  background-color: rgb(236, 240, 241);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+/* air tahiti */
+.choix140
+{
+  background-color: rgb(0, 192, 215);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix141
+{
+  background-color: rgb(1, 118, 192);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix142
+{
+  background-color: rgb(0, 204, 204);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix143
+{
+  background-color: rgb(255, 205, 207);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix144
+{
+  background-color: rgb(255, 102, 0);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+.choix145
+{
+  background-color: rgb(7, 215, 246);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+} 
+
+
+/* boeing */
+.choix150
+{
+  background-color: rgb(0, 146, 213);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix151
+{
+  background-color: rgb(95, 107, 115);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix152
+{
+  background-color: rgb(129, 138, 145);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix153
+{
+  background-color: rgb(7, 171, 242);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix154
+{
+  background-color: rgb(183, 179, 176);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix155
+{
+  background-color: rgb(42, 154, 193);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix156
+{
+  background-color: rgb(57, 73, 87);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+/* tilde.io et ibm(code rally) */
+.choix160
+{
+  background-color: rgb(1, 119, 190);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix161
+{
+  background-color: rgb(0, 154, 222);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix162
+{
+  background-color: rgb(0, 175, 196);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix163
+{
+  background-color: rgb(237, 243, 243);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix164
+{
+  background-color: rgb(125, 127, 127);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+/* xero */
+.choix170
+{
+  background-color: rgb(19, 181, 234);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix171
+{
+  background-color: rgb(232, 247, 252);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix172
+{
+  background-color: rgb(20, 181, 234);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix173
+{
+  background-color: rgb(22, 161, 212);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+/* lecab.fr */
+.choix180
+{
+  background-color: rgb(248, 125, 46);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix181
+{
+  background-color: rgb(243, 245, 247);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix182
+{
+  background-color: rgb(56, 62, 68);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix183
+{
+  background-color: rgb(224, 224, 224);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix184
+{
+  background-color: rgb(229, 236, 238);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix185
+{
+  background-color: rgb(255, 242, 217);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix186
+{
+  background-color: rgb(, , );
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+/* myjobmatcher.com/uk */
+
+.choix190
+{
+  background-color: rgb(67, 74, 85);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix191
+{
+  background-color: rgb(83, 198, 213);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix192
+{
+  background-color: rgb(14, 106, 160);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix193
+{
+  background-color: rgb(38, 174, 206);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix194
+{
+  background-color: rgb(118, 186, 23);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix195
+{
+  background-color: rgb(69, 205, 219);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix196
+{
+  background-color: rgb(142, 167, 171);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix197
+{
+  background-color: rgb(60, 76, 89);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix198
+{
+  background-color: rgb(50, 63, 74);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix199
+{
+  background-color: rgb(103, 105, 106);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+/* opensignal */
+.choix200
+{
+  background-color: rgb(27, 167, 220);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix201
+{
+  background-color: rgb(20, 73, 92);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix202
+{
+  background-color: rgb(241, 245, 247);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix203
+{
+  background-color: rgb(154, 165, 169);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix204
+{
+  background-color: rgb(123, 133, 139);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix205
+{
+  background-color: rgb(151, 162, 166);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix206
+{
+  background-color: rgb(64, 70, 89);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix207
+{
+  background-color: rgb(0, 196, 204);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix208
+{
+  background-color: rgb(92, 100, 127);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.choix209
+{
+  background-color: rgb(27, 219, 164);
+  color:  white; 
+  font-size: 11px;
+  font-weight: normal;  
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  margin: 20px 20px 20px 20px;
+  padding: 1px 1px 1px 1px;
+}
+
+/* opensignal et hellobank */
+.choix300
+{
+   background-color: rgb(27, 167, 220);
+   height: 100px;
+   width: 50px;
+}
+
+.choix301
+{
+   background-color: rgb(241, 245, 247);
+   height: 100px;
+   width: 50px;
+}
+
+.choix302
+{
+   background-color: rgb(20, 73, 92);
+   height: 100px;
+   width: 50px;
+}
+
+.choix303
+{
+   background-color: rgb(153, 163, 167);
+   height: 100px;
+   width: 50px;
+}
+
+.choix304
+{
+   background-color: rgb(6, 180, 204);
+   height: 100px;
+   width: 50px;
+}
+
+.choix305
+{
+   background-color: rgb(91, 218, 232);
+   height: 100px;
+   width: 50px;
+}
+
+.choix306
+{
+   background-color: rgb(57, 73, 87);
+   height: 100px;
+   width: 50px;
+}
+
+.choix307
+{
+   background-color: rgb(46, 58, 70);
+   height: 100px;
+   width: 50px;
+}
+
+.choix308
+{
+   background-color: rgb(6, 152, 217);
+   height: 100px;
+   width: 50px;
+}
+
+.choix309
+{
+   background-color: rgb(7, 169, 242);
+   height: 100px;
+   width: 50px;
+}
+
+.choix310
+{
+   background-color: rgb(54, 124, 223);
+   height: 100px;
+   width: 50px;
+}
+
+.choix311
+{
+   background-color: rgb(202, 118, 108);
+   height: 100px;
+   width: 50px;
+}
+
+.choix312
+{
+   background-color: rgb(26, 204, 238);
+   height: 100px;
+   width: 50px;
+}
+
+.choix313
+{
+   background-color: rgb(229, 123, 84);
+   height: 100px;
+   width: 50px;
+}
+
+.choix314
+{
+   background-color: rgb(0, 172, 199);
+   height: 100px;
+   width: 50px;
+}
+
+.choix315
+{
+   background-color: rgb(34, 44, 48);
+   height: 100px;
+   width: 50px;
+}
+
+
+.choix320
+{
+   background-color: rgb(26, 130, 226);
+   height: 100px;
+   width: 50px;
+}
+
+.choix321
+{
+   background-color: rgb(1, 179, 227);
+   height: 100px;
+   width: 50px;
+}
+
+.choix322
+{
+   background-color: rgb(152, 224, 243);
+   height: 100px;
+   width: 50px;
+}
+
+.choix323
+{
+   background-color: rgb(244, 246, 247);
+   height: 100px;
+   width: 50px;
+}
+
+.choix324
+{
+   background-color: rgb(127, 144, 160);
+   height: 100px;
+   width: 50px;
+}
+
+.choix325
+{
+   background-color: rgb(41, 70, 97);
+   height: 100px;
+   width: 50px;
+}
+
+.choix330
+{
+   background-color: rgb(0, 150, 219);
+   height: 100px;
+   width: 50px;
+}
+
+.choix331
+{
+   background-color: rgb(6, 152, 217);
+   height: 100px;
+   width: 50px;
+}
+
+/* wordpress, ellp, boeing & klm, dataiku, visage.co */
+.choix400
+{
+   background-color: rgb(116, 220, 252);
+   height: 100px;
+   width: 50px;
+}
+
+.choix401
+{
+   background-color: rgb(46, 68, 83);
+   height: 100px;
+   width: 50px;
+}
+
+.choix402
+{
+   background-color: rgb(0, 191, 165);
+   height: 100px;
+   width: 50px;
+}
+
+.choix403
+{
+   background-color: rgb(15, 148, 211);
+   height: 100px;
+   width: 50px;
+}
+
+.choix404
+{
+   background-color: rgb(10, 49, 65);
+   height: 100px;
+   width: 50px;
+}
+
+.choix405
+{
+   background-color: rgb(0, 157, 220);
+   height: 100px;
+   width: 50px;
+}
+
+.choix406
+{
+   background-color: rgb(0, 179, 174);
+   height: 100px;
+   width: 50px;
+}
+
+.choix407
+{
+   background-color: rgb(88, 209, 150);
+   height: 100px;
+   width: 50px;
+}
+
+/* turquoise: visage.io */
+.choix408
+{
+   background-color: rgb(27, 207, 201);
+   height: 100px;
+   width: 50px;
+}
+
+.choix409
+{
+   background-color: rgb(140, 218, 217);
+   height: 100px;
+   width: 50px;
+}
+
+.choix410
+{
+   background-color: rgb(178, 230, 230);
+   height: 100px;
+   width: 50px;
+}
+
+.choix411
+{
+   background-color: rgb(227, 0, 45);
+   height: 100px;
+   width: 50px;
+}
+
+.choix412
+{
+   background-color: rgb(0, 77, 62);
+   height: 100px;
+   width: 50px;
+}
+
+
+.choix413
+{
+   background-color: rgb(140, 189, 172);
+   height: 100px;
+   width: 50px;
+}
+
+.choix414
+{
+   background-color: rgb(75, 130, 107);
+   height: 100px;
+   width: 50px;
+}
+
+
+.choix415
+{
+   background-color: rgb(165, 204, 161);
+   height: 100px;
+   width: 50px;
+}
+
+/* plan qualite BM */
+.choix420
+{
+   background-color: rgb(0, 27, 72);
+   height: 100px;
+   width: 50px;
+} 
+
+.choix421
+{
+   background-color: rgb(0, 68, 129);
+   height: 100px;
+   width: 50px;
+} 
+
+.choix422
+{
+   background-color: rgb(1, 138, 190);
+   height: 100px;
+   width: 50px;
+} 
+
+.choix423
+{
+   background-color: rgb(151, 202, 219);
+   height: 100px;
+   width: 50px;
+} 
+
+.choix424
+{
+   background-color: rgb(222, 232, 241);
+   height: 100px;
+   width: 50px;
+} 
+
+.choix425
+{
+   background-color: rgb(76, 150, 25);
+   height: 100px;
+   width: 50px;
+} 
+
+.choix426
+{
+   background-color: rgb(245, 199, 61);
+   height: 100px;
+   width: 50px;
+} 
+
+.choix427
+{
+   background-color: rgb(235, 75, 51);
+   height: 100px;
+   width: 50px;
+} 
+
+/* netlify */
+.choix430
+{
+   background-color: rgb(0, 199, 183);
+   height: 100px;
+   width: 50px;
+}
+
+.choix431
+{
+   background-color: rgb(49, 61, 62);
+   height: 100px;
+   width: 50px;
+}
+
+/* kaggle */
+.choix440
+{
+   background-color: rgb(33, 199, 255);
+   height: 100px;
+   width: 50px;
+}
+
+.choix441
+{
+   background-color: rgb(71, 73, 77);
+   height: 100px;
+   width: 50px;
+}
+
+.choix442
+{
+   background-color: rgb(105, 107, 110);
+   height: 100px;
+   width: 50px;
+}
+
+.choix443
+{
+   background-color: rgb(32, 190, 255);
+   height: 100px;
+   width: 50px;
+}
+
+.choix444
+{
+   background-color: rgb(0, 138, 188);
+   height: 100px;
+   width: 50px;
+}
+
+/* codecademy */
+.choix450
+{
+   background-color: rgb(49, 55, 66);
+   height: 100px;
+   width: 50px;
+}
+
+/* udacity */
+.choix460
+{
+   background-color: rgb(2, 204, 186);
+   height: 100px;
+   width: 50px;
+}
+
+.choix461
+{
+   background-color: rgb(2, 179, 228);
+   height: 100px;
+   width: 50px;
+}
+
+/* databricks */
+.choix470
+{
+   background-color: rgb(240, 84, 45);
+   height: 100px;
+   width: 50px;
+}
+
+.choix471
+{
+   background-color: rgb(217, 24, 37);
+   height: 100px;
+   width: 50px;
+}
+
+/* ibm developerworks */
+.choix480
+{
+   background-color: rgb(86, 211, 208);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix481
+{
+   background-color: rgb(63, 63, 63);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix482
+{
+   background-color: rgb(83, 183, 181);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix483
+{
+   background-color: rgb(119, 119, 119);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix484
+{
+   background-color: rgb(97, 212, 209);
+   height: 100px;
+   width: 50px; 
+}
+
+/* udacity */
+.choix490
+{
+   background-color: rgb(36, 177, 237);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix491
+{
+   background-color: rgb(239, 249, 252);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix492
+{
+   background-color: rgb(2, 179, 228);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix493
+{
+   background-color: rgb(255, 84, 131);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix494
+{
+   background-color: rgb(255,162,52);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix495
+{
+   background-color: rgb(,,);
+   height: 100px;
+   width: 50px; 
+}
+
+/* cisco */
+.choix500
+{
+   background-color: rgb(205, 234, 239);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix501
+{
+   background-color: rgb(104, 191, 208);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix502
+{
+   background-color: rgb(3, 149, 177);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix503
+{
+   background-color: rgb(,,);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix504
+{
+   background-color: rgb(,,);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix505
+{
+   background-color: rgb(,,);
+   height: 100px;
+   width: 50px; 
+}
+
+/* le wagon */
+.choix510
+{
+   background-color: rgb(228, 255, 243);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix511
+{
+   background-color: rgb(30, 221, 136);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix512
+{
+   background-color: rgb(232, 250, 254);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix513
+{
+   background-color: rgb(98, 221, 245);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix514
+{
+   background-color: rgb(22, 138, 145);
+   height: 100px;
+   width: 50px; 
+}
+
+/* creative */
+.choix520
+{
+   background-color: rgb(65, 180, 183);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix521
+{
+   background-color: rgb(25, 141, 160);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix522
+{
+   background-color: rgb(10, 114, 138);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix523
+{
+   background-color: rgb(46, 65, 83);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix524
+{
+   background-color: rgb(42, 55, 71);
+   height: 100px;
+   width: 50px; 
+}
+
+/* novoresume */
+.choix530
+{
+   background-color: rgb(48, 60, 69);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix531
+{
+   background-color: rgb(30, 175, 218);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix532
+{
+   background-color: rgb(29, 191, 175);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix533
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px; 
+}
+
+.choix534
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px; 
+}
+
+/* toogoodtogo */
+.choix540
+{
+   background-color: rgb(245, 251, 250);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix541
+{
+   background-color: rgb(18, 183, 170);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix542
+{
+   background-color: rgb(69, 173, 161);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix543
+{
+   background-color: rgb(121, 208, 198);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix544
+{
+   background-color: rgb(188, 236, 229);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix545
+{
+   background-color: rgb(255, 195, 22);
+   height: 100px;
+   width: 50px; 
+}
+
+/* segment.com */
+.choix550
+{
+   background-color: rgb(50, 117, 125);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix551
+{
+   background-color: rgb(37, 108, 117);
+   height: 100px;
+   width: 50px; 
+}
+
+
+.choix552
+{
+   background-color: rgb(151, 200, 235);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix553
+{
+   background-color: rgb(116, 221, 188);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix554
+{
+   background-color: rgb(246, 234, 220);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix555
+{
+   background-color: rgb(233, 217, 133);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix556
+{
+   background-color: rgb(77, 133, 139);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix557
+{
+   background-color: rgb(41, 84, 91);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix558
+{
+   background-color: rgb(146, 163, 179);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix559
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px; 
+}
+
+/* hubspot */
+.choix560
+{
+   background-color: rgb(254, 244, 238);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix561
+{
+   background-color: rgb(202, 253, 255);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix562
+{
+   background-color: rgb(123, 222, 210);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix563
+{
+   background-color: rgb(0, 190, 165);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix564
+{
+   background-color: rgb(0, 164, 191);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix565
+{
+   background-color: rgb(0, 179, 54);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix566
+{
+   background-color: rgb(0, 69, 80);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix567
+{
+   background-color: rgb(151, 173, 156);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix568
+{
+   background-color: rgb(147, 234, 32);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix569
+{
+   background-color: rgb(1, 43, 53);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix570
+{
+   background-color: rgb(0, 48, 63);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix571
+{
+   background-color: rgb(199, 44, 72);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix572
+{
+   background-color: rgb(89, 115, 124);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix573
+{
+   background-color: rgb(255, 122, 89);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix574
+{
+   background-color: rgb(255, 199, 172);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix575
+{
+   background-color: rgb(255, 242, 238);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix576
+{
+   background-color: rgb(51, 71, 91);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix577
+{
+   background-color: rgb(0, 163, 188);
+   height: 100px;
+   width: 50px; 
+}
+
+/* the hague university */
+.choix580
+{
+   background-color: rgb(34, 51, 67);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix581
+{
+   background-color: rgb(229, 229, 229);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix582
+{
+   background-color: rgb(0, 181, 212);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix583
+{
+   background-color: rgb(158, 167, 0);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix584
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px; 
+}
+
+/* naked-apartments 2020 */
+.choix590
+{
+   background-color: rgb(182, 217, 219);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix591
+{
+   background-color: rgb(58, 103, 124);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix592
+{
+   background-color: rgb(0, 130, 172);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix593
+{
+   background-color: rgb(0, 45, 74);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix594
+{
+   background-color: rgb(0, 95, 130);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix595
+{
+   background-color: rgb(249, 126, 7);
+   height: 100px;
+   width: 50px; 
+}
+
+/* cned */
+.choix600
+{
+   background-color: rgb(0, 142, 158);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix601
+{
+   background-color: rgb(141, 198, 208);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix602
+{
+   background-color: rgb(229, 209, 193);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix603
+{
+   background-color: rgb(234, 164, 109);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix604
+{
+   background-color: rgb(216, 238, 237);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix605
+{
+   background-color: rgb(239, 80, 145);
+   height: 100px;
+   width: 50px; 
+}
+
+/* Atom.io */
+.choix610
+{
+   background-color: rgb(142, 252, 220);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix611
+{
+   background-color: rgb(120, 175, 159);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix612
+{
+   background-color: rgb(0, 128, 100);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix613
+{
+   background-color: rgb(0, 115, 89);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix614
+{
+   background-color: rgb(0, 75, 59);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix615
+{
+   background-color: rgb(59, 69, 66);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix616
+{
+   background-color: rgb(239, 196, 122);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix617
+{
+   background-color: rgb(222, 162, 47);
+   height: 100px;
+   width: 50px; 
+}
+
+/* uinversity of california */
+.choix620
+{
+   background-color: rgb(193, 228, 247);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix621
+{
+   background-color: rgb(18, 149, 216);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix622
+{
+   background-color: rgb(255, 241, 166);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix623
+{
+   background-color: rgb(37, 64, 93);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix624
+{
+   background-color: rgb(187, 217, 244);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix625
+{
+   background-color: rgb(96, 181, 158);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix626
+{
+   background-color: rgb(237, 103, 15);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix627
+{
+   background-color: rgb(251, 229, 241);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix628
+{
+   background-color: rgb(255, 246, 193);
+   height: 100px;
+   width: 50px; 
+}
+
+/* Mercedes Petronas F1  */
+.choix630
+{
+   background-color: rgb(214, 249, 255);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix631
+{
+   background-color: rgb(10, 36, 49);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix632
+{
+   background-color: rgb(31, 31, 31);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix633
+{
+   background-color: rgb(12, 165, 151);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix634
+{
+   background-color: rgb(2, 112, 172);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix635
+{
+   background-color: rgb(22, 30, 46);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix636
+{
+   background-color: rgb(22, 189, 202);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix637
+{
+   background-color: rgb(55, 65, 81);
+   height: 100px;
+   width: 50px; 
+}
+
+/* Itv */
+.choix640
+{
+   background-color: rgb(34, 37, 47);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix641
+{
+   background-color: rgb(0, 188, 150);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix642
+{
+   background-color: rgb(21, 24, 36);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix643
+{
+   background-color: rgb(25, 100, 200);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix644
+{
+   background-color: rgb(31, 83, 93);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix645
+{
+   background-color: rgb(255, 170, 0);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix646
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px; 
+}
+
+.choix647
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px; 
+}
+
+.choix648
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px; 
+}
+
+.choix649
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px; 
+}
+
+/* Air Tahiti */
+.choix650
+{
+   background-color: rgb(45, 204, 211);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix651
+{
+   background-color: rgb(0, 71, 113);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix652
+{
+   background-color: rgb(1, 55, 103);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix653
+{
+   background-color: rgb(201, 55, 98);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix654
+{
+   background-color: rgb(179, 49, 104);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix655
+{
+   background-color: rgb(87, 114, 73);
+   height: 100px;
+   width: 50px; 
+}
+
+/* JustInMind / MockPlus */
+.choix670
+{
+   background-color: rgb(64, 210, 210);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix671
+{
+   background-color: rgb(84, 83, 88);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix672
+{
+   background-color: rgb(255, 201, 53);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix673
+{
+   background-color: rgb(254, 64, 102);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix674
+{
+   background-color: rgb(50, 63, 82);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix675
+{
+   background-color: rgb(32, 39, 53);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix676
+{
+   background-color: rgb(97, 218, 251);
+   height: 100px;
+   width: 50px; 
+}
+
+/* TG4.ie */
+.choix680
+{
+   background-color: rgb(47, 72, 79);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix681
+{
+   background-color: rgb(61, 113, 126);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix682
+{
+   background-color: rgb(255, 202, 8);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix683
+{
+   background-color: rgb(235, 0, 113);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix684
+{
+   background-color: rgb(40, 194, 206);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix685
+{
+   background-color: rgb(2, 87, 128);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix686
+{
+   background-color: rgb(177, 215, 236);
+   height: 100px;
+   width: 50px; 
+}
+
+/* World Merit - F1 Teams */
+.choix690
+{
+   background-color: rgb(230, 0, 45);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix691
+{
+   background-color: rgb(255, 158, 27);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix692
+{
+   background-color: rgb(47, 172, 217);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix693
+{
+   background-color: rgb(41, 130, 166);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix695
+{
+   background-color: rgb(26, 83, 107);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix696
+{
+   background-color: rgb(49, 143, 182);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix697
+{
+   background-color: rgb(12, 165, 151);
+   height: 100px;
+   width: 50px; 
+}
+
+/* getskeleton et gov.mt */
+.choix700
+{
+   background-color: rgb(51, 195, 240);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix701
+{
+   background-color: rgb(23, 139, 139);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix702
+{
+   background-color: rgb(19, 220, 199);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix703
+{
+   background-color: rgb(23, 163, 126);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix704
+{
+   background-color: rgb(49, 48, 62);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix705
+{
+   background-color: rgb(133, 133, 140);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix706
+{
+   background-color: rgb(151, 72, 72);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix707
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px; 
+}
+
+/* JetBrains */
+.choix710
+{
+   background-color: rgb(22, 125, 255);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix711
+{
+   background-color: rgb(35, 36, 40);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix712
+{
+   background-color: rgb(174, 240, 61);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix713
+{
+   background-color: rgb(23, 230, 232);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix714
+{
+   background-color: rgb(7, 34, 69);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix715
+{
+   background-color: rgb(100, 116, 127);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix716
+{
+   background-color: rgb(154, 165, 179);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix717
+{
+   background-color: rgb(237, 65, 124);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix718
+{
+   background-color: rgb(255, 13, 0);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix719
+{
+   background-color: rgb(255, 75, 0);
+   height: 100px;
+   width: 50px; 
+}
+
+/* Canevas CV/Site web  */
+.choix720
+{
+   background-color: rgb(9, 190, 173);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix721
+{
+   background-color: rgb(50, 77, 92);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix722
+{
+   background-color: rgb(244, 127, 22);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix723
+{
+   background-color: rgb(169, 222, 236);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix724
+{
+   background-color: rgb(14, 186, 179);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix725
+{
+   background-color: rgb(103, 162, 163);
+   height: 100px;
+   width: 50px; 
+}
+
+/* Citrix */
+.choix730
+{
+   background-color: rgb(194, 246, 237);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix731
+{
+   background-color: rgb(41, 168, 170);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix732
+{
+   background-color: rgb(0, 84, 99);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix733
+{
+   background-color: rgb(251, 238, 202);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix734
+{
+   background-color: rgb(233, 249, 249);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix735
+{
+   background-color: rgb(255, 119, 0);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix736
+{
+   background-color: rgb(0, 176, 140);
+   height: 100px;
+   width: 50px; 
+}
+
+/* Channel 4/Sendinblue/Hydrogenplatform */
+.choix740
+{
+   background-color: rgb(26, 187, 195);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix741
+{
+   background-color: rgb(69, 86, 96);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix742
+{
+   background-color: rgb(0, 146, 255);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix743
+{
+   background-color: rgb(4, 74, 117);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix744
+{
+   background-color: rgb(29, 215, 215);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix745
+{
+   background-color: rgb(147, 237, 233);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix746
+{
+   background-color: rgb(255, 102, 0);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix747
+{
+   background-color: rgb(255, 217, 212);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix748
+{
+   background-color: rgb(50, 240, 90);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix749
+{
+   background-color: rgb(116, 250, 217);
+   height: 100px;
+   width: 50px; 
+}
+
+/* UsAirForce - Too good to go / Oracle*/
+.choix750
+{
+   background-color: rgb(0, 59, 77);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix751
+{
+   background-color: rgb(138, 173, 191);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix752
+{
+   background-color: rgb(69, 173, 161);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix753
+{
+   background-color: rgb(121, 208, 198);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix754
+{
+   background-color: rgb(189, 236, 229);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix755
+{
+   background-color: rgb(15, 23, 46);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix756
+{
+   background-color: rgb(29, 40, 60);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix757
+{
+   background-color: rgb(13, 20, 52);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix758
+{
+   background-color: rgb(7, 162, 186);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix759
+{
+   background-color: rgb(151, 140, 109);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix760
+{
+   background-color: rgb(3, 61, 3);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix761
+{
+   background-color: rgb(7, 242, 8);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix762
+{
+   background-color: rgb(0, 201, 172);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix763
+{
+   background-color: rgb(229, 0, 86);
+   height: 100px;
+   width: 50px;  
+}
+
+/* Pays-bas */
+.choix770
+{
+   background-color: rgb(217, 240, 246);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix771
+{
+   background-color: rgb(0, 166, 214);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix772
+{
+   background-color: rgb(248, 245, 238);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix773
+{
+   background-color: rgb(211, 15, 76);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix774
+{
+   background-color: rgb(0, 73, 95);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix775
+{
+   background-color: rgb(228, 5, 19);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix776
+{
+   background-color: rgb(243, 144, 0);
+   height: 100px;
+   width: 50px;  
+}
+
+/* air tahiti */
+.choix780
+{
+   background-color: rgb(45, 204, 211);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix781
+{
+   background-color: rgb(1, 55, 102);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix782
+{
+   background-color: rgb(0, 93, 186);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix783
+{
+   background-color: rgb(86, 131, 170);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix784
+{
+   background-color: rgb(64, 88, 98);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix785
+{
+   background-color: rgb(192, 192, 200);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix786
+{
+   background-color: rgb(216, 30, 5);
+   height: 100px;
+   width: 50px;  
+}
+
+/* Resume.io / EM Lyon / Skillshare */
+.choix790
+{
+   background-color: rgb(232, 240, 254);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix791
+{
+   background-color: rgb(122, 133, 153);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix792
+{
+   background-color: rgb(33, 150, 243);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix793
+{
+   background-color: rgb(0, 35, 51);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix794
+{
+   background-color: rgb(0, 255, 132);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix795
+{
+   background-color: rgb(226, 0, 26);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix796
+{
+   background-color: rgb(249, 0, 6);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix797
+{
+   background-color: rgb(155, 212, 206);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix798
+{
+   background-color: rgb(0, 181, 174);
+   height: 100px;
+   width: 50px;  
+}
+
+/* Allemagne */
+.choix800
+{
+   background-color: rgb(5, 22, 76);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix801
+{
+   background-color: rgb(255, 126, 29);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix802
+{
+   background-color: rgb(255, 183, 0);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix803
+{
+   background-color: rgb(255, 225, 79);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix804
+{
+   background-color: rgb(30, 45, 55);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix805
+{
+   background-color: rgb(1, 160, 185);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix806
+{
+   background-color: rgb(230, 25, 0);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix807
+{
+   background-color: rgb(120, 5, 45);
+   height: 100px;
+   width: 50px;  
+}
+
+/* Finlande */
+.choix810
+{
+   background-color: rgb(39, 62, 71);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix811
+{
+   background-color: rgb(14, 159, 169);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix812
+{
+   background-color: rgb(5, 20, 59);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix813
+{
+   background-color: rgb(219, 232, 248);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix814
+{
+   background-color: rgb(73, 144, 226);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix815
+{
+   background-color: rgb(90, 106, 155);
+   height: 100px;
+   width: 50px;  
+}
+
+/* Novo-Nordisk */
+.choix820
+{
+   background-color: rgb(0, 25, 101);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix821
+{
+   background-color: rgb(0, 90, 210);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix822
+{
+   background-color: rgb(252, 242, 245);
+   height: 100px;
+   width: 50px;  
+}
+
+/* Seeing Theory */
+.choix830
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px;  
+}
+
+.choix831
+{
+   background-color: rgb(41, 39, 55);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix832
+{
+   background-color: rgb(125, 123, 133);
+   height: 100px;
+   width: 50px;  
+}
+
+/* Net Academy */
+.choix840
+{
+   background-color: rgb(0, 80, 115);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix841
+{
+   background-color: rgb(0, 188, 234);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix842
+{
+   background-color: rgb(253, 170, 23);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix843
+{
+   background-color: rgb(110, 190, 71);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix844
+{
+   background-color: rgb(152, 228, 244);
+   height: 100px;
+   width: 50px;  
+}
+
+/* Time for Planet - Air Arabia */
+.choix850
+{
+   background-color: rgb(0, 47, 51);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix851
+{
+   background-color: rgb(0, 150, 162);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix852
+{
+   background-color: rgb(137, 229, 211);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix853
+{
+   background-color: rgb(194, 0, 65);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix854
+{
+   background-color: rgb(255, 0, 65);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix855
+{
+   background-color: rgb(1, 104, 121);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix856
+{
+   background-color: rgb(0, 188, 235);
+   height: 100px;
+   width: 50px;  
+}
+
+/* Luminarc */
+.choix860
+{
+   background-color: rgb(25, 35, 80);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix861
+{
+   background-color: rgb(228, 61, 147);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix862
+{
+   background-color: rgb(234, 105, 171);
+   height: 100px;
+   width: 50px;  
+}
+
+/* TeraData.co.uk */
+.choix870
+{
+   background-color: rgb(41, 53, 64);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix871
+{
+   background-color: rgb(56, 72, 82);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix872
+{
+   background-color: rgb(17, 218, 224);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix873
+{
+   background-color: rgb(20, 213, 208);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix874
+{
+   background-color: rgb(243, 116, 64);
+   height: 100px;
+   width: 50px;  
+}
+
+/* Compagnies aériennes */
+.choix880
+{
+   background-color: rgb(233, 28, 35);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix881
+{
+   background-color: rgb(0, 41, 82);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix882
+{
+   background-color: rgb(0, 97, 171);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix883
+{
+   background-color: rgb(187, 228, 246);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix884
+{
+   background-color: rgb(7, 91, 124);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix885
+{
+   background-color: rgb(0, 161, 222);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix886
+{
+   background-color: rgb(17, 23, 43);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix887
+{
+   background-color: rgb(229, 25, 55);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix888
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px;  
+}
+
+.choix889
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px;  
+}
+
+/* Belfast Telegraph */
+.choix890
+{
+   background-color: rgb(8, 119, 139);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix891
+{
+   background-color: rgb(36, 136, 154);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix892
+{
+   background-color: rgb(196, 235, 241);
+   height: 100px;
+   width: 50px;  
+}
+
+/* A la mère de famille / kubevirt.io */
+.choix900
+{
+   background-color: rgb(245, 91, 43);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix901
+{
+   background-color: rgb(127, 104, 100);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix902
+{
+   background-color: rgb(47, 188, 192);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix903
+{
+   background-color: rgb(6, 173, 180);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix904
+{
+   background-color: rgb(0, 166, 174);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix905
+{
+   background-color: rgb(0, 132, 163);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix906
+{
+   background-color: rgb(0, 97, 102);
+   height: 100px;
+   width: 50px;  
+}
+
+/* Outlier */
+.choix910
+{
+   background-color: rgb(28, 29, 33);
+   height: 100px;
+   width: 50px;  
+}
+
+.choix911
+{
+   background-color: rgb(95, 196, 184);
+   height: 100px;
+   width: 50px;  
+}
+
+/* N24 */
+.choix920
+{
+   background-color: rgb(72, 172, 152);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix921
+{
+   background-color: rgb(199, 215, 228);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix922
+{
+   background-color: rgb(43, 105, 122);
+   height: 100px;
+   width: 50px; 
+}
+
+/* Hesperide */
+.choix930
+{
+   background-color: rgb(49, 204, 205);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix931
+{
+   background-color: rgb(199, 249, 244);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix932
+{
+   background-color: rgb(102, 115, 95);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix933
+{
+   background-color: rgb(252, 107, 42);
+   height: 100px;
+   width: 50px; 
+}
+
+/* flatironschool */
+.choix940
+{
+   background-color: rgb(25, 70, 82);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix941
+{
+   background-color: rgb(50, 207, 254);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix942
+{
+   background-color: rgb(28, 226, 184);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix943
+{
+   background-color: rgb(0, 179, 230);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix944
+{
+   background-color: rgb(17, 66, 73);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix945
+{
+   background-color: rgb(55, 47, 42);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix946
+{
+   background-color: rgb(255, 153, 0);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix947
+{
+   background-color: rgb(71, 60, 54);
+   height: 100px;
+   width: 50px; 
+}
+
+/* twilio - flatiron */
+.choix950
+{
+   background-color: rgb(31, 48, 76);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix951
+{
+   background-color: rgb(242, 47, 70);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix952
+{
+   background-color: rgb(224, 239, 254);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix953
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px; 
+}
+
+/* outseta - awesome */
+.choix960
+{
+   background-color: rgb(1, 150, 135);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix961
+{
+   background-color: rgb(18, 157, 143);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix962
+{
+   background-color: rgb(0, 33, 41);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix963
+{
+   background-color: rgb(0, 152, 166);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix964
+{
+   background-color: rgb(77, 183, 193);
+   height: 100px;
+   width: 50px; 
+}
+
+/* hackerfest-isdb */
+.choix970
+{
+   background-color: rgb(13, 45, 53);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix971
+{
+   background-color: rgb(31, 166, 137);
+   height: 100px;
+   width: 50px; 
+}
+
+
+.choix972
+{
+   background-color: rgb(24, 61, 93);
+   height: 100px;
+   width: 50px; 
+}
+
+
+.choix973
+{
+   background-color: rgb(241, 247, 250);
+   height: 100px;
+   width: 50px; 
+}
+
+
+.choix974
+{
+   background-color: rgb(147, 194, 219);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix975
+{
+   background-color: rgb(156, 70, 104);
+   height: 100px;
+   width: 50px; 
+}
+
+/* technation.io */
+.choix980
+{
+   background-color: rgb(0, 39, 54);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix981
+{
+   background-color: rgb(254, 94, 0);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix982
+{
+   background-color: rgb(0, 179, 169);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix983
+{
+   background-color: rgb(98, 174, 166);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix984
+{
+   background-color: rgb(25, 127, 120);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix985
+{
+   background-color: rgb(118, 183, 181);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix986
+{
+   background-color: rgb(52, 91, 91);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix987
+{
+   background-color: rgb(69, 123, 126);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix988
+{
+   background-color: rgb(91, 140, 137);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix989
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px; 
+}
+
+/* */
+.choix990
+{
+   background-color: rgb(7, 17, 44);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix991
+{
+   background-color: rgb(230, 250, 254);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix992
+{
+   background-color: rgb(5, 163, 184);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix993
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px; 
+}
+
+/* bulma.io et tanzu.vmware.com */
+.choix1000
+{
+   background-color: rgb(48, 66, 80);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1001
+{
+   background-color: rgb(34, 52, 60);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1002
+{
+   background-color: rgb(27, 42, 50);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1003
+{
+   background-color: rgb(73, 175, 217);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1004
+{
+   background-color: rgb(15, 23, 28);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1005
+{
+   background-color: rgb(235, 255, 252);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1006
+{
+   background-color: rgb(0, 148, 126);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1007
+{
+   background-color: rgb(0, 209, 178);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1008
+{
+   background-color: rgb(255, 255, 255);
+   height: 100px;
+   width: 50px; 
+}
+
+/* EURO */
+.choix1010
+{
+   background-color: rgb(7, 106, 120);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1011
+{
+   background-color: rgb(198, 236, 198);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1012
+{
+   background-color: rgb(16, 142, 162);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1013
+{
+   background-color: rgb(43, 165, 183);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1014
+{
+   background-color: rgb(26, 160, 181);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1015
+{
+   background-color: rgb(33, 153, 169);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1016
+{
+   background-color: rgb(146, 207, 216);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1017
+{
+   background-color: rgb(0, 118, 206);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1018
+{
+   background-color: rgb(0, 68, 124);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1019
+{
+   background-color: rgb(157, 161, 167);
+   height: 100px;
+   width: 50px; 
+}
+
+/* stardog */
+.choix1020
+{
+   background-color: rgb(0, 62, 81);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1021
+{
+   background-color: rgb(188, 253, 238);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1022
+{
+   background-color: rgb(10, 174, 222);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1023
+{
+   background-color: rgb(243, 251, 254);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1024
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1025
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px; 
+}
+
+/* stardog-citrix */
+.choix1030
+{
+   background-color: rgb(111, 226, 208);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1031
+{
+   background-color: rgb(0, 62, 81);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1032
+{
+   background-color: rgb(189, 240, 237);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1033
+{
+   background-color: rgb(0, 104, 122);
+   height: 100px;
+   width: 50px; 
+}
+
+/* newcastle university */
+.choix1040
+{
+   background-color: rgb(0, 63, 70);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1041
+{
+   background-color: rgb(16, 115, 119);
+   height: 100px;
+   width: 50px; 
+}
+
+/* malta public services/delta airlines*/
+.choix1050
+{
+   background-color: rgb(97, 120, 138);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1051
+{
+   background-color: rgb(141, 204, 219);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1052
+{
+   background-color: rgb(67, 173, 189);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1053
+{
+   background-color: rgb(43, 84, 98);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1054
+{
+   background-color: rgb(226, 231, 234);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1055
+{
+   background-color: rgb(224, 25, 51);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1056
+{
+   background-color: rgb(17, 23, 43);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1057
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1058
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1059
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px; 
+}
+
+/* sopheon */
+.choix1060
+{
+   background-color: rgb(2, 70, 108);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1061
+{
+   background-color: rgb(29, 204, 195);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1062
+{
+   background-color: rgb(74, 171, 176);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1063
+{
+   background-color: rgb(2, 62, 94);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1064
+{
+   background-color: rgb(85, 154, 164);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1065
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1066
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1067
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px; 
+}
+
+/* Heidrick */
+.choix1070
+{
+   background-color: rgb(66, 89, 103);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1071
+{
+   background-color: rgb(44, 218, 218);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1072
+{
+   background-color: rgb(1, 32, 53);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1073
+{
+   background-color: rgb(51, 66, 85);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1074
+{
+   background-color: rgb(102, 252, 252);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1075
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px; 
+}
+
+/* JetBlue */
+.choix1080
+{
+   background-color: rgb(145, 217, 206);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1081
+{
+   background-color: rgb(0, 13, 45);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1082
+{
+   background-color: rgb(0, 32, 91);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1083
+{
+   background-color: rgb(0, 106, 158);
+   height: 100px;
+   width: 50px; 
+}
+
+
+.choix1084
+{
+   background-color: rgb(0, 106, 158);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1085
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1086
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px; 
+}
+
+/* Netted */
+.choix1090
+{
+   background-color: rgb(220, 245, 234);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1091
+{
+   background-color: rgb(190, 237, 217);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1092
+{
+   background-color: rgb(110, 182, 171);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1093
+{
+   background-color: rgb(108, 207, 162);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1094
+{
+   background-color: rgb(101, 173, 151);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1095
+{
+   background-color: rgb(80, 148, 131);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1096
+{
+   background-color: rgb(78, 184, 151);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1097
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px; 
+}
+
+/* Indra */
+.choix1100
+{
+   background-color: rgb(99, 159, 203);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1101
+{
+   background-color: rgb(253, 227, 212);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1102
+{
+   background-color: rgb(0, 66, 83);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1103
+{
+   background-color: rgb(135, 159, 178);
+   height: 100px;
+   width: 50px; 
+}
+
+/* code-dev */
+.choix1110
+{
+   background-color: rgb(224, 240, 237);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1111
+{
+   background-color: rgb(152, 207, 210);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1112
+{
+   background-color: rgb(9, 120, 137);
+   height: 100px;
+   width: 50px; 
+}
+
+.choix1113
+{
+   background-color: rgb(146, 197, 200);
+   height: 100px;
+   width: 50px; 
+}
+
+
+/* tahiti-nui */
+
+/* garden.io */
+.choix1120
+{
+   background-color: rgb(2, 81, 89);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1121
+{
+   background-color: rgb(201, 255, 237);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1122
+{
+   background-color: rgb(237, 5, 83);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1123
+{
+   background-color: rgb(242, 203, 225);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1124
+{
+   background-color: rgb(0, 201, 182);
+   height: 100px;
+   width: 50px;
+}
+
+/* Coldplay Quatar Fondation */
+.choix1130
+{
+   background-color: rgb(13, 19, 43);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1131
+{
+   background-color: rgb(21, 30, 70);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1132
+{
+   background-color: rgb(255, 131, 239);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1133
+{
+   background-color: rgb(0, 148, 214);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1134
+{
+   background-color: rgb(20, 143, 143);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1135
+{
+   background-color: rgb(158, 250, 255);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1136
+{
+   background-color: rgb(121, 225, 226);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1137
+{
+   background-color: rgb(206, 240, 242);
+   height: 100px;
+   width: 50px;
+}
+
+/* American Airlines 2022 */
+.choix1140
+{
+   background-color: rgb(0, 120, 210);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1141
+{
+   background-color: rgb(8, 90, 189);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1142
+{
+   background-color: rgb(54, 133, 229);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1143
+{
+   background-color: rgb(184, 214, 250);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1144
+{
+   background-color: rgb(39, 61, 70);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1145
+{
+   background-color: rgb(126, 137, 143);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1146
+{
+   background-color: rgb(0, 249, 241);
+   height: 100px;
+   width: 50px;
+}
+
+/* OneHotel */
+.choix1150
+{
+   background-color: rgb(16, 205, 199);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1151
+{
+   background-color: rgb(0, 45, 66);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1152
+{
+   background-color: rgb(207, 245, 244);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1153
+{
+   background-color: rgb(0, 180, 250);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1154
+{
+   background-color: rgb(0, 60, 93);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1155
+{
+   background-color: rgb(2, 27, 65);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1156
+{
+   background-color: rgb(0, 191, 178);
+   height: 100px;
+   width: 50px;
+}
+
+/* Janvier 2023 */
+.choix1160
+{
+   background-color: rgb(3, 60, 79);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1161
+{
+   background-color: rgb(43, 93, 110);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1162
+{
+   background-color: rgb(198, 238, 211);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1163
+{
+   background-color: rgb(252, 191, 160);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1164
+{
+   background-color: rgb(177, 66, 54);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1165
+{
+   background-color: rgb(0, 255, 196);
+   height: 100px;
+   width: 50px;
+}
+
+/* Conding With John / ITV */
+.choix1170
+{
+   background-color: rgb(245, 166, 35);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1171
+{
+   background-color: rgb(0, 61, 93);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1172
+{
+   background-color: rgb(0, 180, 250);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1173
+{
+   background-color: rgb(0, 98, 143);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1174
+{
+   background-color: rgb(222, 235, 82);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1175
+{
+   background-color: rgb(16, 44, 61);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1176
+{
+   background-color: rgb(42, 97, 117);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1177
+{
+   background-color: rgb(209, 228, 221);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1178
+{
+   background-color: rgb(40, 48, 61);
+   height: 100px;
+   width: 50px;
+}
+
+/* semantics */
+.choix1180
+{
+   background-color: rgb(60, 200, 161);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1181
+{
+   background-color: rgb(101, 17, 130);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1182
+{
+   background-color: rgb(38, 158, 255);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1183
+{
+   background-color: rgb(25, 31, 41);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1184
+{
+   background-color: rgb(255, 95, 0);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1185
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px;
+}
+
+.choix1185
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px;
+}
+
+/* Palette Janv. 2023 */
+.choix1190
+{
+   background-color: rgb(0, 67, 66);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1191
+{
+   background-color: rgb(0, 127, 128);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1192
+{
+   background-color: rgb(0, 227, 187);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1193
+{
+   background-color: rgb(255, 199, 184);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1194
+{
+   background-color: rgb(0, 212, 215);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1195
+{
+   background-color: rgb(241, 252, 255);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1196
+{
+   background-color: rgb(0, 184, 143);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1197
+{
+   background-color: rgb(59, 75, 48);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1198
+{
+   background-color: rgb(237, 33, 61);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1199
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px;
+}
+
+/* Palette Sofrecom */
+.choix1200
+{
+   background-color: rgb(19, 64, 77);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1201
+{
+   background-color: rgb(241, 245, 248);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1202
+{
+   background-color: rgb(81, 182, 227);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1203
+{
+   background-color: rgb(140, 210, 244);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1204
+{
+   background-color: rgb(255, 196, 37);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1205
+{
+   background-color: rgb(255, 229, 18);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1206
+{
+   background-color: rgb(0, 129, 198);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1207
+{
+   background-color: rgb(0, 164, 228);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1208
+{
+   background-color: rgb(243, 112, 28);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1209
+{
+   background-color: rgb(255, 151, 40);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1210
+{
+   background-color: rgb(0, 140, 153);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1211
+{
+   background-color: rgb(34, 188, 185);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1212
+{
+   background-color: rgb(209, 18, 66);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1213
+{
+   background-color: rgb(239, 62, 66);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1214
+{
+   background-color: rgb(0, 169, 79);
+   height: 100px;
+   width: 50px;
+}
+
+
+.choix1215
+{
+   background-color: rgb(122, 193, 67);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1216
+{
+   background-color: rgb(125, 65, 153);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1217
+{
+   background-color: rgb(170, 116, 194);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1218
+{
+   background-color: rgb(122, 169, 67);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1219
+{
+   background-color: rgb(0, 169, 79);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1220
+{
+   background-color: rgb(122, 193, 67);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1221
+{
+   background-color: rgb(125, 65, 153);
+   height: 100px;
+   width: 50px;
+}
+
+
+.choix1222
+{
+   background-color: rgb(170, 116, 194);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1223
+{
+   background-color: rgb(122, 193, 67);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1223
+{
+   background-color: rgb(193, 216, 47);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1224
+{
+   background-color: rgb(0, 56, 122);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1225
+{
+   background-color: rgb(2, 103, 173);
+   height: 100px;
+   width: 50px;
+}
+
+/* palette mai 2023 */
+.choix1230
+{
+   background-color: rgb(14, 58, 47);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1231
+{
+   background-color: rgb(120, 250, 174);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1232
+{
+   background-color: rgb(23, 45, 62);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1233
+{
+   background-color: rgb(1, 167, 129);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1234
+{
+   background-color: rgb(11, 55, 64);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1235
+{
+   background-color: rgb(44, 213, 136);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1236
+{
+   background-color: rgb(37, 140, 130);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1237
+{
+   background-color: rgb(19, 44, 57);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1238
+{
+   background-color: rgb(32, 64, 73);
+   height: 100px;
+   width: 50px;
+}
+
+/* juillet 2023 */
+.choix1240
+{
+   background-color: rgb(172, 249, 233);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1241
+{
+   background-color: rgb(51, 61, 62);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1242
+{
+   background-color: rgb(175, 198, 182);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1243
+{
+   background-color: rgb(139, 158, 145);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1244
+{
+   background-color: rgb(10, 92, 118);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1245
+{
+   background-color: rgb(152, 210, 192);
+   height: 100px;
+   width: 50px;
+}
+
+/* Palette Octobre 2023 */
+.choix1250
+{
+   background-color: rgb(25, 37, 24);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1251
+{
+   background-color: rgb(10, 179, 95);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1252
+{
+   background-color: rgb(108, 161, 86);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1253
+{
+   background-color: rgb(19, 174, 234);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1254
+{
+   background-color: rgb(229, 28, 35);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1255
+{
+   background-color: rgb(82, 173, 174);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1256
+{
+   background-color: rgb(0, 120, 210);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1257
+{
+   background-color: rgb(235, 239, 240);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1258
+{
+   background-color: rgb(209, 226, 236);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1259
+{
+   background-color: rgb(69, 89, 106);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1260
+{
+   background-color: rgb(172, 14, 22);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1261
+{
+   background-color: rgb(8, 98, 100);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1262
+{
+   background-color: rgb(16, 109, 255);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1263
+{
+   background-color: rgb(120, 250, 174);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1264
+{
+   background-color: rgb(14, 58, 47);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1265
+{
+   background-color: rgb(0, 34, 121);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1266
+{
+   background-color: rgb(0, 147, 203);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1267
+{
+   background-color: rgb(231, 246, 254);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1268
+{
+   background-color: rgb(22, 121, 255);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1269
+{
+   background-color: rgb(62, 190, 231);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1270
+{
+   background-color: rgb(135, 254, 160);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1271
+{
+   background-color: rgb(254, 179, 137);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1272
+{
+   background-color: rgb(255, 228, 137);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1273
+{
+   background-color: rgb(152, 255, 236);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1274
+{
+   background-color: rgb(253, 94, 57);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1275
+{
+   background-color: rgb(226, 34, 0);
+   height: 100px;
+   width: 50px;
+}
+
+/* etihad 1 */
+.choix1280
+{
+   background-color: rgb(184, 203, 207);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1281
+{
+   background-color: rgb(2, 100, 99);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1282
+{
+   background-color: rgb(101, 192, 197);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1283
+{
+   background-color: rgb(92, 191, 196);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1284
+{
+   background-color: rgb(98, 189, 192);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1285
+{
+   background-color: rgb(168, 216, 216);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1286
+{
+   background-color: rgb(225, 236, 240);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1287
+{
+   background-color: rgb(255, 220, 90);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1288
+{
+   background-color: rgb(0, 98, 97);
+   height: 100px;
+   width: 50px;
+}
+
+/* vanguard clothing / delta / klm / american airlines */
+.choix1290
+{
+   background-color: rgb(209, 36, 56);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1291
+{
+   background-color: rgb(230, 95, 91);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1292
+{
+   background-color: rgb(14, 63, 158);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1293
+{
+   background-color: rgb(53, 152, 194);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1294
+{
+   background-color: rgb(185, 190, 194);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1295
+{
+   background-color: rgb(98, 122, 134);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1296
+{
+   background-color: rgb(45, 62, 75);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1297
+{
+   background-color: rgb(0, 100, 100);
+   height: 100px;
+   width: 50px;
+}
+
+
+
+/* Hager */
+.choix1300
+{
+   background-color: rgb(0, 170, 225);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1301
+{
+   background-color: rgb(227, 241, 247);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1302
+{
+   background-color: rgb(0, 48, 87);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1303
+{
+   background-color: rgb(0, 112, 172);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1304
+{
+   background-color: rgb(245, 100, 0);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1305
+{
+   background-color: rgb(118, 118, 118);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1306
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px;
+}
+
+/* Université de Liège */
+.choix1310
+{
+   background-color: rgb(0, 72, 81);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1311
+{
+   background-color: rgb(178, 212, 216);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1312
+{
+   background-color: rgb(0, 112, 127);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1313
+{
+   background-color: rgb(66, 149, 161);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1314
+{
+   background-color: rgb(125, 185, 40);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1315
+{
+   background-color: rgb(248, 170, 0);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1316
+{
+   background-color: rgb(168, 88, 158);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1317
+{
+   background-color: rgb(230, 45, 49);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1318
+{
+   background-color: rgb(185, 205, 118);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1319
+{
+   background-color: rgb(141, 166, 214);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1320
+{
+   background-color: rgb(91, 37, 125);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1321
+{
+   background-color: rgb(40, 155, 56);
+   height: 100px;
+   width: 50px;
+}
+
+.choix1322
+{
+   background-color: rgb(, , );
+   height: 100px;
+   width: 50px;
+}
+
+
+
+/* date de mise à jour: 22/12/23  */
