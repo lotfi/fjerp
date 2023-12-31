@@ -5,16 +5,12 @@ import lombok.Data;
 @Data
 public class UseCase extends Node
 {
-	private String processCode;
+	private Process process;
 	
 	private Data metaType;
     
 	private String flow;
 	
-	private Actor  actor;
-	
-	private UseCase nextUseCase;
-	
-	private UseCase prevUseCase;
-	
+	private Role  assignedRole;
+		
 }

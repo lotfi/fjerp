@@ -1,5 +1,7 @@
 package org.gema.model;
 
+import java.util.Date;
+
 import lombok.Data;
 
 @Data
@@ -9,9 +11,9 @@ public class Activity extends Node
     
     private Job   job;
     
-    private org.fjerp.modele.Data  record;
+    private org.fjerp.modele.Data  message;
     
-    private Data  execTime;
+    private Date  execTime;
     
     private Actor actor;
     

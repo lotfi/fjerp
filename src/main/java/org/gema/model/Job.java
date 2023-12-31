@@ -24,6 +24,6 @@ public class Job
 	
 	private Date   endTime;
 	
-    private List<Data> dataBook = new LinkedList<Data>();
+    private List<Data> book = new LinkedList<Data>();
 
 }
